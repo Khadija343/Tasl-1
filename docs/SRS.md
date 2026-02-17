@@ -89,4 +89,4 @@ Problems:
 
 ✅ Improved Requirement:
 
-The system shall send email notifications to users within 5 seconds after successful registration.
+The system shall send email notifications to users within 5 seconds after successful registration. THis is updated version
